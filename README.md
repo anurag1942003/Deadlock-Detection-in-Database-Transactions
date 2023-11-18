@@ -14,7 +14,7 @@ Deadlocks in database systems pose a significant challenge to the reliability an
 *Case Studies: Analyzing real-world scenarios to understand the impact of deadlocks.
 *Data Analysis: Evaluating the effectiveness of implemented solutions.
 ## Technical Details
-*Programming Languages: Python, SQL
+#### Programming Languages: Python, SQL
 *Database Management: MySQL
 *Tools: Visual Studio Code, Git, and GitHub for version control
 *Logging: Transaction logs stored for monitoring and debugging purposes
