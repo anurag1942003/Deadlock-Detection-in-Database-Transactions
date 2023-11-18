@@ -25,9 +25,11 @@ Ensure you have Python and MySQL installed on your system. Clone this repository
 
 - Create a MySQL database named Deadlock.
 - Use the provided SQL scripts to set up the necessary tables.
+
 2.Configuration:
 
 - Update the config dictionary in the Python scripts with your MySQL server details.
+
 3.Running the Simulation:
 
 - Execute the Python script to start the simulation: python deadlock_simulation.py
