@@ -1,0 +1,122 @@
+2023-11-18 10:55:01,951 - INFO - Transaction between 5 and 6 for amount 50 was successful.
+2023-11-18 10:55:01,962 - INFO - Transaction between 19 and 20 for amount 50 was successful.
+2023-11-18 10:55:01,962 - INFO - Transaction between 9 and 10 for amount 50 was successful.
+2023-11-18 10:55:01,967 - INFO - Transaction between 17 and 18 for amount 50 was successful.
+2023-11-18 10:55:01,967 - INFO - Transaction between 3 and 4 for amount 50 was successful.
+2023-11-18 10:55:01,967 - INFO - Transaction between 15 and 16 for amount 50 was successful.
+2023-11-18 10:55:01,972 - INFO - Transaction between 7 and 8 for amount 50 was successful.
+2023-11-18 10:55:01,972 - INFO - Transaction between 13 and 14 for amount 50 was successful.
+2023-11-18 10:55:01,972 - INFO - Transaction between 1 and 2 for amount 50 was successful.
+2023-11-18 10:55:01,972 - INFO - Transaction between 11 and 12 for amount 50 was successful.
+2023-11-18 10:55:05,013 - INFO - Transaction between 2 and 1 could not proceed due to locks on account 1.
+2023-11-18 10:55:05,013 - INFO - Transaction between 1 and 2 could not proceed due to locks on account 2.
+2023-11-18 10:55:05,013 - INFO - Deadlock detected!
+2023-11-18 10:55:05,013 - INFO - Cycle: thread1 -> thread2 -> thread1
+2023-11-18 10:55:05,013 - INFO - Resolving deadlock based on account priority and transaction amount.
+2023-11-18 10:55:08,032 - INFO - Transaction between 2 and 1 for amount 50 was successful.
+2023-11-18 10:55:11,061 - INFO - Transaction between 1 and 2 for amount 50 was successful.
+2023-11-18 10:55:11,064 - INFO - Deadlock resolved and transactions reattempted based on priority.
+2023-11-18 10:55:14,077 - INFO - Transaction between 10 and 1 for amount 57 was successful.
+2023-11-18 10:55:17,091 - INFO - Transaction between 4 and 18 for amount 41 was successful.
+2023-11-18 10:55:20,114 - INFO - Transaction between 1 and 14 for amount 37 was successful.
+2023-11-18 10:55:23,133 - INFO - Transaction between 2 and 11 for amount 71 was successful.
+2023-11-18 10:55:26,161 - INFO - Transaction between 1 and 16 for amount 38 was successful.
+2023-11-18 10:55:29,220 - INFO - Transaction between 17 and 4 for amount 29 was successful.
+2023-11-18 10:55:32,250 - INFO - Transaction between 11 and 8 for amount 80 was successful.
+2023-11-18 10:55:35,280 - INFO - Transaction between 19 and 2 for amount 61 was successful.
+2023-11-18 10:55:38,297 - INFO - Transaction between 16 and 8 for amount 57 was successful.
+2023-11-18 10:55:41,324 - INFO - Transaction between 17 and 13 for amount 30 was successful.
+2023-11-18 10:55:44,350 - INFO - Transaction between 18 and 7 for amount 30 was successful.
+2023-11-18 10:55:47,400 - INFO - Transaction between 14 and 12 for amount 78 was successful.
+2023-11-18 10:55:50,417 - INFO - Transaction between 6 and 11 for amount 95 was successful.
+2023-11-18 10:55:53,447 - INFO - Transaction between 10 and 14 for amount 94 was successful.
+2023-11-18 10:55:56,472 - INFO - Transaction between 9 and 11 for amount 79 was successful.
+2023-11-18 10:55:59,497 - INFO - Transaction between 5 and 3 could not proceed due to locks on account 3.
+2023-11-18 10:55:59,497 - INFO - Transaction between 3 and 4 could not proceed due to locks on account 4.
+2023-11-18 10:55:59,497 - INFO - Transaction between 4 and 5 could not proceed due to locks on account 5.
+2023-11-18 10:55:59,497 - INFO - Deadlock detected!
+2023-11-18 10:55:59,497 - INFO - Cycle: thread1 -> thread2 -> thread3 -> thread1
+2023-11-18 10:55:59,497 - INFO - Resolving deadlock based on account priority and transaction amount.
+2023-11-18 10:56:02,517 - INFO - Transaction between 5 and 3 for amount 50 was successful.
+2023-11-18 10:56:05,550 - INFO - Transaction between 3 and 4 for amount 50 was successful.
+2023-11-18 10:56:08,564 - INFO - Transaction between 4 and 5 for amount 50 was successful.
+2023-11-18 10:56:08,573 - INFO - Deadlock resolved and transactions reattempted based on priority.
+2023-11-18 10:56:11,599 - INFO - Transaction between 19 and 20 for amount 50 was successful.
+2023-11-18 10:56:11,599 - INFO - Transaction between 6 and 7 for amount 50 was successful.
+2023-11-18 10:56:11,599 - INFO - Transaction between 10 and 11 for amount 50 was successful.
+2023-11-18 10:56:11,599 - INFO - Transaction between 14 and 15 for amount 50 was successful.
+2023-11-18 10:56:11,602 - INFO - Transaction between 3 and 18 for amount 50 was successful.
+2023-11-18 10:56:11,602 - INFO - Transaction between 12 and 13 for amount 50 was successful.
+2023-11-18 10:56:11,607 - INFO - Transaction between 16 and 17 for amount 50 was successful.
+2023-11-18 10:56:11,607 - INFO - Transaction between 5 and 4 for amount 50 was successful.
+2023-11-18 10:56:11,617 - INFO - Transaction between 1 and 2 for amount 50 was successful.
+2023-11-18 10:56:11,619 - INFO - Transaction between 8 and 9 for amount 50 was successful.
+2023-11-18 10:56:14,641 - INFO - Transaction between 8 and 9 could not proceed due to locks on account 9.
+2023-11-18 10:56:14,641 - INFO - Transaction between 6 and 7 could not proceed due to locks on account 7.
+2023-11-18 10:56:14,641 - INFO - Transaction between 9 and 6 could not proceed due to locks on account 6.
+2023-11-18 10:56:14,641 - INFO - Transaction between 7 and 8 could not proceed due to locks on account 8.
+2023-11-18 10:56:14,641 - INFO - Deadlock detected!
+2023-11-18 10:56:14,641 - INFO - Cycle: thread1 -> thread2 -> thread3 -> thread4 -> thread1
+2023-11-18 10:56:14,641 - INFO - Resolving deadlock based on account priority and transaction amount.
+2023-11-18 10:56:17,652 - INFO - Transaction between 8 and 9 for amount 50 was successful.
+2023-11-18 10:56:20,684 - INFO - Transaction between 7 and 8 for amount 50 was successful.
+2023-11-18 10:56:23,704 - INFO - Transaction between 6 and 7 for amount 50 was successful.
+2023-11-18 10:56:26,717 - INFO - Transaction between 9 and 6 for amount 50 was successful.
+2023-11-18 10:56:26,725 - INFO - Deadlock resolved and transactions reattempted based on priority.
+2023-11-18 10:56:29,739 - INFO - Transaction between 11 and 12 for amount 81 was successful.
+2023-11-18 10:56:32,765 - INFO - Transaction between 6 and 5 for amount 36 was successful.
+2023-11-18 10:56:35,790 - INFO - Transaction between 10 and 19 for amount 63 was successful.
+2023-11-18 10:56:38,802 - INFO - Transaction between 11 and 8 for amount 37 was successful.
+2023-11-18 10:56:41,827 - INFO - Transaction between 2 and 20 for amount 59 was successful.
+2023-11-18 10:56:44,844 - INFO - Transaction between 14 and 9 for amount 93 was successful.
+2023-11-18 10:56:47,867 - INFO - Transaction between 8 and 17 for amount 48 was successful.
+2023-11-18 10:56:50,893 - INFO - Transaction between 18 and 5 for amount 43 was successful.
+2023-11-18 10:56:53,899 - INFO - Transaction between 10 and 4 for amount 32 was successful.
+2023-11-18 10:56:56,914 - INFO - Transaction between 6 and 15 for amount 48 was successful.
+2023-11-18 10:56:59,938 - INFO - Transaction between 5 and 9 for amount 58 was successful.
+2023-11-18 10:57:02,948 - INFO - Transaction between 15 and 9 for amount 43 was successful.
+2023-11-18 10:57:05,962 - INFO - Transaction between 20 and 11 for amount 51 was successful.
+2023-11-18 10:57:08,987 - INFO - Transaction between 14 and 6 for amount 30 was successful.
+2023-11-18 10:57:12,011 - INFO - Transaction between 10 and 17 for amount 64 was successful.
+2023-11-18 10:57:15,027 - INFO - Transaction between 8 and 7 for amount 74 was successful.
+2023-11-18 10:57:18,050 - INFO - Transaction between 1 and 20 for amount 60 was successful.
+2023-11-18 10:57:21,063 - INFO - Transaction between 14 and 3 for amount 19 was successful.
+2023-11-18 10:57:24,078 - INFO - Transaction between 15 and 7 for amount 18 was successful.
+2023-11-18 10:57:27,093 - INFO - Transaction between 1 and 16 for amount 97 was successful.
+2023-11-18 10:57:30,118 - INFO - Transaction between 17 and 9 for amount 69 was successful.
+2023-11-18 10:57:33,139 - INFO - Transaction between 3 and 16 for amount 34 was successful.
+2023-11-18 10:57:36,165 - INFO - Transaction between 9 and 8 for amount 67 was successful.
+2023-11-18 10:57:39,182 - INFO - Transaction between 4 and 5 for amount 15 was successful.
+2023-11-18 10:57:42,200 - INFO - Transaction between 3 and 12 for amount 58 was successful.
+2023-11-18 10:57:45,226 - INFO - Transaction between 16 and 17 for amount 83 was successful.
+2023-11-18 10:57:48,239 - INFO - Transaction between 13 and 16 for amount 31 was successful.
+2023-11-18 10:57:51,255 - INFO - Transaction between 18 and 12 for amount 81 was successful.
+2023-11-18 10:57:54,274 - INFO - Transaction between 14 and 3 for amount 51 was successful.
+2023-11-18 10:57:57,299 - INFO - Transaction between 5 and 4 for amount 10 was successful.
+2023-11-18 10:58:00,318 - INFO - Transaction between 6 and 9 for amount 91 was successful.
+2023-11-18 10:58:03,337 - INFO - Transaction between 11 and 20 for amount 39 was successful.
+2023-11-18 10:58:06,352 - INFO - Transaction between 14 and 10 for amount 97 was successful.
+2023-11-18 10:58:09,375 - INFO - Transaction between 13 and 6 for amount 13 was successful.
+2023-11-18 10:58:12,397 - INFO - Transaction between 20 and 18 for amount 19 was successful.
+2023-11-18 10:58:15,424 - INFO - Transaction between 15 and 19 for amount 25 was successful.
+2023-11-18 10:58:18,442 - INFO - Transaction between 18 and 16 for amount 36 was successful.
+2023-11-18 10:58:21,469 - INFO - Transaction between 16 and 13 for amount 65 was successful.
+2023-11-18 10:58:24,493 - INFO - Transaction between 10 and 13 for amount 51 was successful.
+2023-11-18 10:58:27,510 - INFO - Transaction between 2 and 1 could not proceed due to locks on account 1.
+2023-11-18 10:58:27,510 - INFO - Transaction between 1 and 2 could not proceed due to locks on account 2.
+2023-11-18 10:58:27,510 - INFO - Deadlock detected!
+2023-11-18 10:58:27,510 - INFO - Cycle: thread1 -> thread2 -> thread1
+2023-11-18 10:58:27,510 - INFO - Resolving deadlock based on account priority and transaction amount.
+2023-11-18 10:58:30,534 - INFO - Transaction between 2 and 1 for amount 50 was successful.
+2023-11-18 10:58:33,552 - INFO - Transaction between 1 and 2 for amount 50 was successful.
+2023-11-18 10:58:33,554 - INFO - Deadlock resolved and transactions reattempted based on priority.
+2023-11-18 10:58:36,584 - INFO - Transaction between 12 and 13 for amount 50 was successful.
+2023-11-18 10:58:36,584 - INFO - Transaction between 8 and 9 for amount 50 was successful.
+2023-11-18 10:58:36,585 - INFO - Transaction between 5 and 4 for amount 50 was successful.
+2023-11-18 10:58:36,587 - INFO - Transaction between 16 and 17 for amount 50 was successful.
+2023-11-18 10:58:36,587 - INFO - Transaction between 14 and 15 for amount 50 was successful.
+2023-11-18 10:58:36,587 - INFO - Transaction between 1 and 2 for amount 50 was successful.
+2023-11-18 10:58:36,590 - INFO - Transaction between 19 and 20 for amount 50 was successful.
+2023-11-18 10:58:36,590 - INFO - Transaction between 10 and 11 for amount 50 was successful.
+2023-11-18 10:58:36,590 - INFO - Transaction between 3 and 18 for amount 50 was successful.
+2023-11-18 10:58:36,606 - INFO - Transaction between 6 and 7 for amount 50 was successful.
