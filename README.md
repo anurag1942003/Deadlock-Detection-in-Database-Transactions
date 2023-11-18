@@ -8,8 +8,8 @@ This project, part of the Operating Systems Lab at the Computer Science and Engi
 Deadlocks in database systems pose a significant challenge to the reliability and efficiency of database management systems. This project addresses the need to detect and resolve these deadlocks effectively, thereby ensuring smoother and more efficient database operations.
 
 ## Project Components
-*Literature Review: In-depth analysis of existing research in deadlock detection.
-*Simulation Model: Developed in Python and SQL, simulating the deadlock detection process.
+- Literature Review: In-depth analysis of existing research in deadlock detection.
+- Simulation Model: Developed in Python and SQL, simulating the deadlock detection process.
 *Algorithm Implementation: Implementing and testing various deadlock detection and resolution strategies.
 *Case Studies: Analyzing real-world scenarios to understand the impact of deadlocks.
 *Data Analysis: Evaluating the effectiveness of implemented solutions.
